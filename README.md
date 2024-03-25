@@ -1,4 +1,4 @@
-![todofoto]
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -27,7 +27,8 @@ Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Your app is ready![todofoto](https://github.com/slckcetin/Todo-App/assets/101551130/d43a3b42-8ae1-419d-8c1f-3325b4d7649b)
+ to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
